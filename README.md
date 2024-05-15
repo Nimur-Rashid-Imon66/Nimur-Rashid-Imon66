@@ -9,7 +9,6 @@
 - 😊 I'm a **Web Developer** and **Competitive Programmer**.
 - 💼 I always like working in **Visual Studio Code** Environment.
 - 🎓 I'm a knowledge seeker, and I love to learn new 💻 **technologies**.
-- ⏰ I have been working in the online marketplace for the past **four months**.
 - 🎯 I'm focused and passionate about my work.
 - 🌱 I’m currently learning **AdonisJS, NextJS**
 - 👨‍💻 All of my projects are available at https://nimur-rashid-imon.netlify.app/
